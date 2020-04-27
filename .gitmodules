@@ -1,0 +1,3 @@
+[submodule "drivers/dot_matrix"]
+	path = drivers/dot_matrix
+	url = https://github.com/rm-hull/luma.led_matrix.git
